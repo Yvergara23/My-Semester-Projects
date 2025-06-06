@@ -1,5 +1,7 @@
 Project 1: Song List
+
 Summary: This program allows users to create a list of songs they'd like to keep track of. Users have the ability to add/remove songs and alphabetically sort the list.
+
 
 Key Features:
 - Count and print the number of songs the user has
@@ -7,7 +9,9 @@ Key Features:
 - Easy-to-follow directions
 
 Project 2: Magic 8-Ball
+
 Summary: This program allows users to ask a simple yes/no question. The program will then randomly choose from a selection of responses.
+
 
 Key Features:
 - ASCII Art to attract the user
